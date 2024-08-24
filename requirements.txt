@@ -1,13 +1,10 @@
+
 aiofiles
 aiohttp
 apscheduler
 asyncio
 bard
-stripe==10.7.0
-mysql-connector-python==9.0.0
-telebot==0.0.5
-youtube_dl==2021.12.17
-bing_image_downloader 
+bing_image_downloader
 beautifulsoup4
 bs4
 cloudscraper
@@ -42,8 +39,7 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-pyrogram
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
+pyrogram==2.0.106
 python-dotenv
 python-telegram-bot==21.1.1
 python-whois
@@ -62,8 +58,9 @@ SpeechRecognition
 spotipy
 telegraph
 tgcrypto
+pyTelegramBotAPI
 unidecode
 wget
-yt-dlp==2024.8.6
+yt-dlp
 youtube-search
 youtube-search-python
