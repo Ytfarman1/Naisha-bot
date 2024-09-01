@@ -1,24 +1,68 @@
-# Netscape HTTP Cookie File
-# This is a generated file! Do not edit.
+❍════════════════════════❍
+ㅤㅤㅤ☠ 𝐖𝐋𝐂 𝐓𝐎 𝐁𝐀𝐃 𝐖𝐎𝐑𝐋𝐃 ☠
+❍════════════════════════❍
 
-# domain  include_subdomains  path  secure  expiration_date  name  value
-.youtube.com	TRUE	/	TRUE	1756617504	__Secure-1PSIDCC	AKEyXzV6ygAMA3NNH9fNBpodz7qOpbCVnZlxMfymtgL1dAuqB0Ycx4MN9DM2qZnce0EKwgKa
-.youtube.com	TRUE	/	TRUE	1759641424	SAPISID	De9SM_Ac9fM6Dr1y/ASMOOjOkEd7-4ndCb
-.youtube.com	TRUE	/	FALSE	1759641424	APISID	aM0kGJTScq-OKHyS/ADJsYOtCAEfWQG_aw
-.youtube.com	TRUE	/	TRUE	1759641424	SSID	AjGoPcSuCpUHEVNr7
-.youtube.com	TRUE	/	TRUE	1759641424	__Secure-3PAPISID	De9SM_Ac9fM6Dr1y/ASMOOjOkEd7-4ndCb
-.youtube.com	TRUE	/	TRUE	1759641424	__Secure-1PSID	g.a000ngjtyHG1lAUrols1-spwhbRmLgBDH_Bu2erKPhxmK0Pzqd2q1yGkn4fNDrEi__Bbw4kh4wACgYKAaISARUSFQHGX2MipoNQqZpLGUnHt3sSZT334BoVAUF8yKpw6M0CJjpFhXxLXp1_yM_j0076
-.youtube.com	TRUE	/	FALSE	1756617504	SIDCC	AKEyXzViapZnASMLcMFr76K7V29opaweqfSnWULhwPcJki51V-km0S7pjGZyazA2wk3QtbOugA
-.youtube.com	TRUE	/	TRUE	1759641424	__Secure-3PSID	g.a000ngjtyHG1lAUrols1-spwhbRmLgBDH_Bu2erKPhxmK0Pzqd2qgcgjsZtkDEBJlmG_yDUE0QACgYKAa8SARUSFQHGX2Mi1_SCL5uhddRy_S5peoCcdhoVAUF8yKrr9Drhuxs_MoXY5xDLUGfl0076
-.youtube.com	TRUE	/	FALSE	1759641424	HSID	AlhQNKeb9i6YSSTdo
-.youtube.com	TRUE	/	TRUE	1756617424	__Secure-1PSIDTS	sidts-CjIBUFGoh1qLckD-sy4ig7B0YKxoOya3VPjjZNAxgX3rp2NZkkXaFCXMLQUcEaknw4OdBxAA
-.youtube.com	TRUE	/	TRUE	1756617504	__Secure-3PSIDCC	AKEyXzWz3cKNTLBpytPSfDzHhEo5q4GX24fNrrdvZFym4s9xRniyQ90PXxNbpvwKaIOTvZK0dw
-.youtube.com	TRUE	/	TRUE	1759641424	LOGIN_INFO	AFmmF2swRgIhAP1NMmxo0pjVBay0PsTL7iYvgkrCV_5gayMfONCXwFDBAiEAmpo3SMNsid4s9ap6Mm6c5c6o2q2KO1iIIHRrcXGnkdc:QUQ3MjNmelJ4eGUtTDJJMlc5OGcyVXNSV1N4NTNTV20tMHNCNFJCQ3c5RDl1cm15VXlKdks4RWl0TGdiMGRKVjcwbzZrYzhCMUx5QkFDRFRuY1lTSFZrV3RGYnF5bEh0THIyRnV0czhPUk5EdW9PeGxWVzZFTDJicExTd2JxSVpySzNMcmhibmJQRnZiT1hqVV9CczVhTHE0YzFjTDZRa29R
-.youtube.com	TRUE	/	TRUE	0	YSC	_iStWUPJeiY
-.youtube.com	TRUE	/	TRUE	1759641424	__Secure-1PAPISID	De9SM_Ac9fM6Dr1y/ASMOOjOkEd7-4ndCb
-.youtube.com	TRUE	/	FALSE	1759641424	SID	g.a000ngjtyHG1lAUrols1-spwhbRmLgBDH_Bu2erKPhxmK0Pzqd2qEjaNucaJT3gB6L4_jYLmKgACgYKAXcSARUSFQHGX2MidM1XjpLU-kG0OW-OmwACwxoVAUF8yKpDxaG7iFBD3h7Bi9Tibko50076
-.youtube.com	TRUE	/	TRUE	1725083033	GPS	1
-.youtube.com	TRUE	/	TRUE	1759641504	PREF	f6=40000000&tz=Asia.Calcutta&f7=100
-.youtube.com	TRUE	/	TRUE	1740114867	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgKw%3D%3D
-.youtube.com	TRUE	/	TRUE	1756617424	__Secure-3PSIDTS	sidts-CjIBUFGoh1qLckD-sy4ig7B0YKxoOya3VPjjZNAxgX3rp2NZkkXaFCXMLQUcEaknw4OdBxAA
-.youtube.com	TRUE	/	TRUE	1740114867	VISITOR_INFO1_LIVE	QYwllm17YR8
+☠ Nᴀᴍᴇ ➸ ʙᴀᴅ ᴍᴜɴᴅᴀ 👑
+☠ Eᴅᴜ ➸ +2 ( ᴘᴀss ) 👑
+☠ Wɪғᴇ ➸ sʜɪᴢᴜ 💕
+☠ Sᴛᴀᴛᴇ ➸ ᴘᴀɴᴊᴀʙ 🔪
+☠ Bɪʀᴛʜᴅᴀʏ ➸ 23 ᴊᴀɴ. 🔪
+☠ Iɴsᴛᴀ ➸ ᴛᴀᴘ ᴛᴏ sᴇᴇ  👑
+☠ Tᴇʟᴇɢʀᴀᴍ 𝗜ᴅ ➸ @ll_BAD_MUNDA_ll 👑
+
+❍══════════════════════════❍
+😀𝗦𝗞𝗜𝗟𝗟𝗦🔩
+
+💎ɢᴀᴍᴍᴇʀ (ғғ) ( 493794192)
+💎ᴄᴏᴅɪɴɢ (ғʀᴇsʜʀ)
+💎ᴄᴀʀᴅᴇʀ (ɴᴏᴏʙ)
+
+❍════════════════════════❍
+🚨  𝗕𝗢𝗧𝗦  🚨
+
+⚡️ ᴍᴜsɪᴄ (✅) ( @Gaana_MusicBot )
+⚡️ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ  (✅)
+⚡️ Rᴇᴘᴏsɪᴛᴏʀɪᴇs 
+
+❍════════════════════════❍
+⚡️   𝗚𝗥𝗢𝗨𝗣𝗦  ⚡️
+
+⚡️  ʙᴀᴅ's ʜᴏᴏᴅ ( ᴄʜᴀᴛɪɴɢ) 
+⚡️  ᴘʙx ᴄʜᴀᴛ (ʙᴏᴛs)
+
+❍════════════════════════❍
+⚡️  𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦  ⚡️
+
+⚡️ ᴘʙx ɴᴇᴛᴡᴏʀᴋ (ʙᴏᴛ)
+⚡️ ᴘʙx sᴜᴘᴘᴏʀᴛ (ʙᴏᴛ
+⚡️ ᴅᴘᴢ 
+⚡️ ғᴇʟʟɪɴɢ
+⚡️ ᴀʙᴏᴜᴛ ( ʙᴀᴅ )
+⚡️ ᴄᴀʀᴅᴇʀ ( sᴏᴏɴ )
+
+❍════════════════════════❍
+ɴᴏᴛᴇ ➸ sʜᴀᴅɴᴀ ᴛᴀ sᴏᴄʜ sᴍᴀᴊ ᴋᴇ sʜᴀᴅɪ😀
+ᴜsᴛᴀᴅ ᴍᴇɴᴜ ᴀᴀᴅᴀᴛ ɴʜɪ ᴅᴜʙᴀʀᴀ ᴀᴜɴ ᴅɪ  🥵
+
+❍════════════════════════❍
+❍════════════════════════❍                      👼ᴅɪʟʟ ᴅᴇ ᴋʀᴇʙ👼
+                                 ⚙️
+                    🐾@TERA_DHANJAL
+                    🐾@BESHRM_BXBY
+                    🐾@EAST_SIDE_FLOWW
+                    🐾@Fuck_em_xll
+                    🐾@BXDNAM_X
+                   🐾 @II_SIDXU_II
+                    🐾@DAAKUXYZ
+                    🐾@XUnreachable
+
+❍════════════════════════❍
+ㅤㅤㅤㅤㅤ✌️⎯꯭‌🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭‌✌️ㅤ ㅤㅤㅤㅤㅤ
+--------------------------------------------------------------------
+
+◆😈 ਤੈਨੂੰ ਸਾਡੀਆਂ ਸਮਝਾਂ🤔 ਕਿੱਥੋਂ ਆਉਣੀਆ 🚨  ਬੁਗੇ ..
+       ਤੇਰੀ ਔਕਾਤ❤️‍🔥ਨਾਲੋਂ ਵੱਡਾ ਤਾਂ ਅਸੀਂ 🥰 ਦਿਲ ਰੱਖਦੇ ਅਾ💗◆
+
+
+#𝐁αԃ ☠
+--------------------------------------------------------------------
