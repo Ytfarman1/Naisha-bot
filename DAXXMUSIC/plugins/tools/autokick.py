@@ -4,9 +4,9 @@ from datetime import datetime
 from pyrogram.enums import ChatType
 
 import config
-from Spotify_Music import app
-from Spotify_Music.core.call import Spotify, autoend
-from Spotify_Music.utils.database import get_client, is_active_chat, is_autoend
+from DAXXMUSIC import app
+from DAXXMUSIC.core.call import Spotify, autoend
+from DAXXMUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 
 async def auto_leave():
