@@ -21,7 +21,7 @@ from DAXXMUSIC.utils.database import (
     remove_active_video_chat,
 )
 from DAXXMUSIC.utils.decorators.language import language
-from DAXXMUSIC.utils.pastebin import SpotifyBin
+from DAXXMUSIC.utils.pastebin import daxxBin
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
